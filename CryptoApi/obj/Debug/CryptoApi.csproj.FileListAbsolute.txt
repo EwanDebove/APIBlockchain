@@ -1,0 +1,18 @@
+C:\Users\Ewan Debove\Desktop\Liar's dice neural network\CryptoApi\CryptoApi\bin\Debug\CryptoApi.exe.config
+C:\Users\Ewan Debove\Desktop\Liar's dice neural network\CryptoApi\CryptoApi\obj\Debug\CryptoApi.csprojResolveAssemblyReference.cache
+C:\Users\Ewan Debove\Desktop\Liar's dice neural network\CryptoApi\CryptoApi\bin\Debug\CryptoApi.exe
+C:\Users\Ewan Debove\Desktop\Liar's dice neural network\CryptoApi\CryptoApi\bin\Debug\CryptoApi.pdb
+C:\Users\Ewan Debove\Desktop\Liar's dice neural network\CryptoApi\CryptoApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ewan Debove\Desktop\Liar's dice neural network\CryptoApi\CryptoApi\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Ewan Debove\Desktop\Liar's dice neural network\CryptoApi\CryptoApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ewan Debove\Desktop\Liar's dice neural network\CryptoApi\CryptoApi\obj\Debug\CryptoApi.exe
+C:\Users\Ewan Debove\Desktop\Liar's dice neural network\CryptoApi\CryptoApi\obj\Debug\CryptoApi.pdb
+C:\Users\Ewan Debove\Desktop\CryptoAPI\CryptoApi\bin\Debug\CryptoApi.exe.config
+C:\Users\Ewan Debove\Desktop\CryptoAPI\CryptoApi\obj\Debug\CryptoApi.exe
+C:\Users\Ewan Debove\Desktop\CryptoAPI\CryptoApi\obj\Debug\CryptoApi.pdb
+C:\Users\Ewan Debove\Desktop\CryptoAPI\CryptoApi\obj\Debug\CryptoApi.csprojResolveAssemblyReference.cache
+C:\Users\Ewan Debove\Desktop\CryptoAPI\CryptoApi\bin\Debug\CryptoApi.exe
+C:\Users\Ewan Debove\Desktop\CryptoAPI\CryptoApi\bin\Debug\CryptoApi.pdb
+C:\Users\Ewan Debove\Desktop\CryptoAPI\CryptoApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ewan Debove\Desktop\CryptoAPI\CryptoApi\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Ewan Debove\Desktop\CryptoAPI\CryptoApi\bin\Debug\Newtonsoft.Json.xml
